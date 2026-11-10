@@ -1,5 +1,4 @@
 import socket
-import time
 SERVER_HOST = "0.0.0.0"
 SERVER_PORT = 8080
 
